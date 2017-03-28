@@ -1,0 +1,5 @@
+lib/
+bin/
+src/shortener/__pycache__/
+src/kirr/__pycache__/
+src/shortener/migrations/__pycache__/
